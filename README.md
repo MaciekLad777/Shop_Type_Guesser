@@ -1,0 +1,1 @@
+# Shop_Type_Guesser
